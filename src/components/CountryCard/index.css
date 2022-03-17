@@ -1,0 +1,17 @@
+.visited-country-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}
+
+.country-flag {
+  width: 400px;
+  height: 200px;
+}
+
+.name-remove-container {
+  display: flex;
+  color: #ffffff;
+  justify-content: space-between;
+  align-items: center;
+}
